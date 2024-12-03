@@ -1,0 +1,13 @@
+{
+    "name": "phphrame/phphrame",
+    "description": "A modern, lightweight PHP MVC framework designed to streamline web development while leveraging the power of Object-Oriented Programming.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oni Adesola Ayomide and Mama Meshac Eberenna"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
