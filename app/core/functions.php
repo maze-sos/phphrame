@@ -9,11 +9,13 @@ function check_extensions()
 
 	$required_extensions = [
 
+		'gd',
 		'mysqli',
 		'pdo_mysql',
 		'pdo_sqlite',
 		'curl',
 		'fileinfo',
+		'intl',
 		'exif',
 		'mbstring',
 	];
