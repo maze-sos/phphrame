@@ -48,7 +48,7 @@ PHPhrame balances simplicity and functionality by integrating:
 ## Technology Stack  
 - **Programming Language**: PHP 8.x  
 - **Database**: MySQL  
-- **Development Tools**: Domain King, Git, Composer
+- **Development Tools**: DomainKing, Git, Composer
 
 ---
 
