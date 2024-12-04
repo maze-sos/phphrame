@@ -57,8 +57,9 @@ PHPhrame balances simplicity and functionality by integrating:
 ### Installation  
 1. **Via Composer**:  
    ```bash
-   composer create-project phphrame/phphrame
+   composer create-project phphrame/phphrame newproject
    ```
+   Replace "newproject" in the command with your actual project name
 
 2. **Manually Download**:  
 - on our website: https://www.phphrame.com.ng
